@@ -11,6 +11,7 @@
 
 :root {
   --home-image: url('https://github.com/GavCreator/Glitchcord/blob/main/images/Glitchys%20Eye.png?raw=true');
+  --home-image-hover: url('https://github.com/GavCreator/Glitchcord/blob/main/images/Glitchys%20Eye.gif?raw=true');
   --accent: 187,34,34;
   --accent-alt: 187,51,51;
   --background-solid: #111111;

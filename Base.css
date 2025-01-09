@@ -19,7 +19,8 @@ button {
 	--font-display: var(--font-primary) !important;
 	--avatar-size: 32px;
 	--background-image: url('https://github.com/GavCreator/Glitchcord/blob/main/images/Placeholder.png?raw=true');
-	--home-image: url('https://github.com/GavCreator/Glitchcord/raw/refs/heads/main/images/Glitchys%20Eye%20-%20Home%20Icon.png');
+	--home-image: url('https://github.com/GavCreator/Glitchcord/blob/main/images/Glitchys%20Eye.png?raw=true');
+	--home-image-hover: url('https://github.com/GavCreator/Glitchcord/blob/main/images/Glitchys%20Eye.gif?raw=true');
 	--background-solid: #161921;
 	--background-solid-dark: #101218;
 	--background-solid-darker: #0c0e12;
@@ -220,6 +221,10 @@ span[class^="expandedFolderBackground-"] {
 
 div[data-list-item-id="guildsnav___home"] {
 	background: var(--home-image) top center/110% no-repeat;
+}
+
+div[data-list-item-id="guildsnav___home"]:hover {
+	background: var(--home-image-hover) top center/110% no-repeat;
 }
 
 div[class^="unreadMentionsIndicatorBottom-"] {
