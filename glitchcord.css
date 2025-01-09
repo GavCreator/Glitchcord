@@ -1,15 +1,10 @@
 /**
- * @name Glitchys Discord Theme
- * @author Gav aka SimplyGav aka GvNx
- * @version 1.0.0
- * @description A red discord theme using the red color found on Glitchys vtuber model as well as basically all my logos lol
- * @source idk
- * @info This was made with the help of bdeditor, check them out! I however redid some of the other css found in the base.css file they use to import so I can modify this more
  *
- * @designsite https://github.com/DiscordStyles/DarkMatter/ https://bdeditor.dev
-*/
+ *
+ *
+**/
 
-@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://github.com/GavCreator/Glitchcord/raw/refs/heads/main/Base.css');
 
 :root {
   --background-image: url('https://i.imgur.com/7SbtKvw.png');
