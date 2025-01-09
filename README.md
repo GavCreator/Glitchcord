@@ -10,4 +10,5 @@ If you want to download this repo and customize it, go for it. I do however ask 
 
 I also recommend you download the other css files as I may make more changes that you may not like, and could possibly even break your own design
 
+
 If you are struggling with customizing it within the files, I recommend you use [BDEditor](https://bdeditor.dev/)
