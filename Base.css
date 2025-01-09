@@ -4,7 +4,7 @@
  * The codebase was never designed to be pretty, it was designed to require as little maintenance as possible.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 @import url('https://github.com/GavCreator/Glitchcord/raw/refs/heads/main/Recolor.css');
 
 button {
@@ -15,9 +15,8 @@ button {
 /* Root Variables */
 
 :root {
-	--font-primary: 'Karla', sans-serif;
+	--font-primary: 'Ubuntu', sans-serif;
 	--font-display: var(--font-primary) !important;
-	/* Dark Matter Variables */
 	--avatar-size: 32px;
 	--background-image: url('https://i.imgur.com/7SbtKvw.png');
 	--home-image: url('https://i.imgur.com/233d55Y.gif');
@@ -28,7 +27,6 @@ button {
 	--accent-alt: 29, 101, 134;
 	--md-black: 0, 0, 0;
 	--dm-white: 255, 255, 255;
-	/* BlurpleRecolor */
 	--accentcolor: var(--accent);
 	--vaccentcolor-hover: rgb(var(--accent));
 	--vaccentcolor-active: rgb(var(--accent));
