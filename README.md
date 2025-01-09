@@ -1,2 +1,2 @@
 # Glitchcord
- A red discord theme using the red color found on Glitchys vtuber model as well as basically all my logos lol
+A darkmode discord theme using the red color commonly associated with the creators Logo, VTuber model, etc.
