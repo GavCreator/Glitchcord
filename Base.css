@@ -28,9 +28,12 @@ button {
 	--accent-alt: 187,51,51;
 	--md-black: 0, 0, 0;
 	--dm-white: 255, 255, 255;
-	--accentcolor: var(--accent);
+	/* --accentcolor: var(--accent);
 	--vaccentcolor-hover: rgb(var(--accent));
-	--vaccentcolor-active: rgb(var(--accent));
+	--vaccentcolor-active: rgb(var(--accent)); */
+	--accentcolor: #ff00ff;
+	--vaccentcolor-hover: #00ffff;
+	--vaccentcolor-active: #ffff00;
 }
 
 :not(div[class*="userProfile"][class*="unThemed"]).theme-dark,
