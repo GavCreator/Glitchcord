@@ -1,9 +1,10 @@
 <a href="https://gavcreator.github.io/Glitchcord/Glitchcord-Theme.css" download="Glitchcord-Theme.css">
-    <h3>Download Glitchcord</h3>
+    <h1>Download Glitchcord</h1>
 </a>
-> Last found working on stable 358011 (433f07a) of Discord
 
 > Glitchcord v1.1.0
+
+> Last found working on stable 358011 (433f07a) of Discord
 
 ### Making Your Own Custom Discord Theme Using These Files
 If you want to download this repo and customize it, go for it. I do however ask you to remove my designs in your own theme, such as my Home Icon, and Logo for the top of the client.
