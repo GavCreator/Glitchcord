@@ -1,6 +1,6 @@
 # Glitchcord - A darkmode discord theme using the red color commonly associated with the my Logo, VTuber model, etc.
 
-### <a href="https://gavcreator.github.io/Glitchcord/Glitchcord-Theme.css" download="https://gavcreator.github.io/Glitchcord/Glitchcord-Theme.css">Download Glitchcord</a>
+### [Download Glitchcord](https://gavcreator.github.io/Glitchcord/Glitchcord-Theme.css)
 > Glitchcord v1.1.0
 
 > Last found working on stable 358011 (433f07a) of Discord
@@ -13,6 +13,7 @@ I also recommend you download the other css files as I may make more changes tha
 If you are struggling with customizing it within the files, I recommend you use [BDEditor](https://bdeditor.dev/)
 
 ### Progress and Plans
-Enabling GitHub Pages to use github.io links
-Currently I'm trying to set the color for the active channel thing
-Later I want to basically merge Glitchcord.css and Base.css since they are the same things  
+
+| Plans                                                                            | Progress Made     |
+|:--------------------------------------------------------------------------------:|:-----------------:|
+| Merge "Base.css", "Glitchcord.css", "Recolor.css", and "ThemeDevBadge.css" together | Not Started Yet   |
