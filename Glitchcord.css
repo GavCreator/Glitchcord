@@ -5,7 +5,7 @@
  * @website https://gvnx.xyz/
  * @invite xRRhmYNkya
  * @source https://github.com/GavCreator/Glitchcord/
- * @version v1.0.1
+ * @version v1.0.2
 **/
 
 @import url('https://github.com/GavCreator/Glitchcord/raw/refs/heads/main/Base.css');
@@ -17,7 +17,8 @@
   --accent-alt: 187,51,51;
   --background-solid: #111111;
   --background-solid-dark: #232323;
-  --background-solid-darker: #2D2D2D;
+  /* --background-solid-darker: #2D2D2D; */
+  --background-solid-darker: #232323;
 }
 
 /* Any custom CSS below here */
