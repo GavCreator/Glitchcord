@@ -15,15 +15,11 @@
   --home-image-hover: url('https://github.com/GavCreator/Glitchcord/blob/main/images/Glitchys%20Eye.gif?raw=true');
   --accent: 187,34,34;
   --accent-alt: 187,51,51;
-  --background-solid: #111111;
+  /* --background-solid: #111111; */
+  --background-solid: #2600ff;
   --background-solid-dark: #232323;
   /* --background-solid-darker: #2D2D2D; */
   --background-solid-darker: #232323;
-}
-
-/* Highlighted color on the channel your on */
-.link_d8bfb3 {
-  background-color: var(--accent);
 }
 
 /* Any custom CSS below here */
