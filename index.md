@@ -1,7 +1,7 @@
 # Glitchcord
 
 ### [Download Glitchcord](https://gavcreator.github.io/Glitchcord/Glitchcord-Theme.css)
-> Glitchcord v1.1.0
+> Glitchcord v1.1.1
 
 > Last found working on stable 358011 (433f07a) of Discord
 
@@ -19,3 +19,5 @@ If you are struggling with customizing it within the files, I recommend you use 
 | Merge "Base.css", "Glitchcord.css", "Recolor.css", and "ThemeDevBadge.css" together | Not Started Yet   |
 | Swap all urls with github.io                                                        | Not Started Yet   |
 | Change all resources to the ones in this repo                                       | Almost Finished   |
+| Fix Glitchys rotating eye gif when hovering over the menu                           | Issues            |
+| Fix Glitchcord watermark at the top of the screen                                   | Issues            |
