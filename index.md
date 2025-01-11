@@ -14,6 +14,8 @@ If you are struggling with customizing it within the files, I recommend you use 
 
 ### Progress and Plans
 
-| Plans                                                                            | Progress Made     |
-|:--------------------------------------------------------------------------------:|:-----------------:|
+| Plans                                                                               | Progress Made     |
+|:-----------------------------------------------------------------------------------:|:-----------------:|
 | Merge "Base.css", "Glitchcord.css", "Recolor.css", and "ThemeDevBadge.css" together | Not Started Yet   |
+| Swap all urls with github.io                                                        | Not Started Yet   |
+| Change all resources to the ones in this repo                                       | Almost Finished   |
