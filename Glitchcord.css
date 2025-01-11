@@ -18,6 +18,7 @@
   --background-solid: #111111;
   --background-solid-dark: #232323;
   --background-solid-darker: #232323;
+  --background-modifier-selected: rgba(var(--accent), 0.6);
 }
 
 /* Any custom CSS below here */
