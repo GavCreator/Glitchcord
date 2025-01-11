@@ -50,9 +50,12 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 	--channeltextarea-background: transparent;
 	--activity-card-background: rgba(var(--dm-white), 0.05);
 	--deprecated-store-bg: transparent;
-	--background-modifier-hover: rgba(var(--md-black), 0.3);
+	/* --background-modifier-hover: rgba(var(--md-black), 0.3);
 	--background-modifier-active: rgba(var(--md-black), 0.3);
-	--background-modifier-selected: rgba(var(--md-black), 0.6);
+	--background-modifier-selected: rgba(var(--md-black), 0.6); */
+	--background-modifier-hover: rgba(var(--accent), 0.3);
+	--background-modifier-active: rgba(var(--accent), 0.3);
+	--background-modifier-selected: rgba(var(--accent), 0.6);
 	--elevation-low: inset 0 -1px 0 0 rgba(var(--md-black), 0.3);
 	--channels-default: rgba(var(--dm-white), 0.3);
 	--deprecated-quickswitcher-input-background: var(--background-solid);
