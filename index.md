@@ -1,7 +1,5 @@
 <a href="https://gavcreator.github.io/Glitchcord/Glitchcord-Theme.css" download="Glitchcord-Theme.css">
-
     <h1>Download Glitchcord</h1>
-	
 </a>
 
 > Glitchcord v1.1.0
