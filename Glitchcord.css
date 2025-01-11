@@ -1,7 +1,7 @@
 /**
  * @name Glitchcord
  * @author Ga.av
- * @description A darkmode discord theme using the red color commonly associated with the creators Logo, VTuber model, etc.
+ * @description A sleek, dark-mode Discord theme featuring a bold red accent, inspired by the creator's signature style and branding.
  * @website https://gvnx.xyz/
  * @invite xRRhmYNkya
  * @source https://github.com/GavCreator/Glitchcord/
@@ -13,13 +13,13 @@
 :root {
   --home-image: url('https://github.com/GavCreator/Glitchcord/blob/main/images/Glitchys%20Eye.png?raw=true');
   --home-image-hover: url('https://github.com/GavCreator/Glitchcord/blob/main/images/Glitchys%20Eye.gif?raw=true');
-  --accent: 187,34,34;
-  --accent-alt: 187,51,51;
-  /* --background-solid: #111111; */
-  --background-solid: #2600ff;
-  --background-solid-dark: #232323;
-  /* --background-solid-darker: #2D2D2D; */
-  --background-solid-darker: #232323;
+  --accent: 187,34,34; /* #BB2222 */
+  --accent-alt: 187,51,51; /* #BB3333 */
+  --background-solid: #111111;
+  /* --background-solid-dark: #232323;
+  --background-solid-darker: #232323; */
+  --background-solid-dark: #4ddd0a;
+  --background-solid-darker: #ff0b85;
 }
 
 /* Any custom CSS below here */
