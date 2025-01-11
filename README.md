@@ -13,6 +13,7 @@ I also recommend you download the other css files as I may make more changes tha
 
 If you are struggling with customizing it within the files, I recommend you use [BDEditor](https://bdeditor.dev/)
 
-### Progress So Far
+### Progress and Plans
+Enabling GitHub Pages to use github.io links
 Currently I'm trying to set the color for the active channel thing
 Later I want to basically merge Glitchcord.css and Base.css since they are the same things
