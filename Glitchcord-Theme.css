@@ -1,0 +1,12 @@
+/* Thank you for using My Glitchcord theme. This is the loader for Glitchcord. Using this means you shouldn't need to download anything else because this just imports the resources. */
+
+/**
+ * @name Glitchcord
+ * @author Ga.av
+ * @description A darkmode discord theme using the red color commonly associated with the creators Logo, VTuber model, etc.
+ * @website https://gvnx.xyz/
+ * @invite xRRhmYNkya
+ * @source https://github.com/GavCreator/Glitchcord/
+**/
+
+@import url('https://github.com/GavCreator/Glitchcord/raw/refs/heads/main/Glitchcord.css');
