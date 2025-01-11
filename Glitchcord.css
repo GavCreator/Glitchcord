@@ -5,7 +5,7 @@
  * @website https://gvnx.xyz/
  * @invite xRRhmYNkya
  * @source https://github.com/GavCreator/Glitchcord/
- * @version v1.0.4
+ * @version v1.0.5
 **/
 
 @import url('https://github.com/GavCreator/Glitchcord/raw/refs/heads/main/Base.css');
@@ -19,6 +19,11 @@
   --background-solid-dark: #232323;
   /* --background-solid-darker: #2D2D2D; */
   --background-solid-darker: #232323;
+}
+
+/* Highlighted color on the channel your on */
+.link_d8bfb3 {
+  background-color: var(--accent);
 }
 
 /* Any custom CSS below here */

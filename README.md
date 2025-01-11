@@ -4,7 +4,7 @@ A darkmode discord theme using the red color commonly associated with the creato
 ### [Download Glitchcord](https://github.com/GavCreator/Glitchcord/blob/main/Glitchcord.css)
 > Last found working on stable 358011 (433f07a) of Discord
 
-> Glitchcord v1.0.4
+> Glitchcord v1.0.5
 
 ### Making Your Own Custom Discord Theme Using These Files
 If you want to download this repo and customize it, go for it. I do however ask you to remove my designs in your own theme, such as my Home Icon, and Logo for the top of the client.
