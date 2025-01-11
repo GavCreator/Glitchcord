@@ -3,6 +3,7 @@
 </a>
 
 > Glitchcord v1.1.0
+
 > Last found working on stable 358011 (433f07a) of Discord
 
 ### Making Your Own Custom Discord Theme Using These Files
